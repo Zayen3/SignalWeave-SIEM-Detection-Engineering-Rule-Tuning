@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project documents a hands-on Detection Engineering lab focused on crafting custom SIEM detection rules, analyzing endpoint telemetry, and tuning out false positives. Instead of relying on out-of-the-box alerts, I built custom detections from scratch using **Wazuh SIEM** and **Microsoft Sysmon** to catch specific adversary techniques mapped to the MITRE ATT&CK framework.
+This project documents a hands-on Detection Engineering lab focused on crafting custom SIEM detection rules, analyzing endpoint telemetry, and tuning out false positives. Instead of relying on out-of-the-box alerts, built a custom detections from scratch using **Wazuh SIEM** and **Microsoft Sysmon** to catch specific adversary techniques mapped to the MITRE ATT&CK framework.
 
 The main focus of this lab was **quality over quantity**—making sure every rule was thoroughly tested offline, verified against live endpoint telemetry, and tuned to avoid alerting on normal administrative activity.
 
