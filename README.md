@@ -68,6 +68,7 @@ The main focus of this lab was **quality over quantity**—making sure every rul
   </rule>
 
 </group>
+```
 Visual Verification & Proofs
 1. Custom Rules Configuration
 
